@@ -6,7 +6,8 @@ To perform the ETL process by extracting local data, transforming it using Pytho
 - Language: Python (Pandas, NumPy)
 
 # Data Architecture
-![Uploading ETL Image.png…]()
+<img width="591" alt="ETL Image" src="https://github.com/dareyup/data_engineering/assets/88558602/a742cd8b-24f6-4224-98ef-742de62d1c01">
+
 
 
 # ETL Process
