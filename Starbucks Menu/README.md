@@ -6,7 +6,8 @@ To perform the ETL process by extracting local data, transforming it using Pytho
 - Language: Python (Pandas, NumPy)
 
 # Data Architecture
-https://user-images.githubusercontent.com/81607668/237030996-a92947af-5e9b-42be-8a34-9b4073f6e7ef.png![image](https://github.com/dareyup/data_engineering/assets/88558602/e291584c-e311-4331-9dd9-1d1b0b139ff8)
+![Uploading ETL Image.png…]()
+
 
 # ETL Process
 1. Data is extracted from [Kaggle](https://www.kaggle.com/datasets/starbucks/starbucks-menu) locally
